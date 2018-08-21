@@ -14,16 +14,16 @@ This data visualization project mainly tries to answer the following questions.
 ## Details
 
 1. How many players are there in the dataset?
-![Figure 1](./1.png)
+![Figure 1](./1.PNG)
 
 2. How many players are belong to each handedness (Right/Left/Both) ?
-![Figure 2](./2.png)
+![Figure 2](./2.PNG)
 
 3. Top 30 Players with Their handedness by Number of Home Runs
-![Figure 3](./3.png)
+![Figure 3](./3.PNG)
 
 4. The number of players of each handedness in top 100 of Home Runs
-![Figure 4](./4.png)
+![Figure 4](./4.PNG)
 
 ## References
 
